@@ -20,7 +20,7 @@ operations = {
 num1 = int(input("Enter with the first number: "))
 
 for symbol in operations:
-    print(symbol)
+    print(symbol)3
 
 op = str(input("Enter with one of the operations above:\n>>>"))
 num2 = int(input("Enter with the second number: "))
