@@ -1,0 +1,9 @@
+Turtle Challenge 1: 
+Draw a triangle, square, pentagon, hexagon, heptagon, otagon, monagon and decagon 
+
+Trutle Challente 2:
+Draw a random Walk, changing every movement into a different random color
+
+Trutle Challenge 3:
+Draw exactly the same picture as the artist made using random colors genereted by colorgram library
+

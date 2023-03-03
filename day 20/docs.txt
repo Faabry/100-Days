@@ -1,0 +1,13 @@
+------------------------ Snake Game Challenge ------------------------
+
+TODO 1: Create the snake
+TODO 2: Make the snake moves | control it 
+TODO 3: Create the food
+TODO 4: Detect collision with food
+TODO 5: Create a scoreboard | increase it 
+TODO 6: Detect collision with wall
+TODO 7: Detect collision with tail
+
+-----------------------------------------------------------------------
+
+
