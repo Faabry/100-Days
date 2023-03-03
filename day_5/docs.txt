@@ -1,0 +1,3 @@
+Ex-17 = The sum of the numbers between 1 and 100/ and the even numbers
+Ex-18 = The Fizz Buzz game
+Ex-19 = The password generator
