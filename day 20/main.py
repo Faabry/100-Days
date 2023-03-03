@@ -1,5 +1,5 @@
 from turtle import Screen
-from snake_angela import Snake
+from snake import Snake
 from scoreboard import Score
 from food import Food
 from time import sleep
@@ -7,7 +7,7 @@ from time import sleep
 
 screen = Screen()
 screen.setup(width=600, height=600)
-screen.title("The Dope Snake")
+screen.title("The Snake Game")
 screen.bgcolor("Black")
 screen.tracer(0)
 
